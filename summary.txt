@@ -1,0 +1,17 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members: Harshvardhan Maskara (hm475) & Saksham Sood (ss3296)
+
+Time spent on the assignment, in hours: 15
+
+Implementation strategy: We worked on each problem together while taking turns at typing. To implement seek and scram we used 
+our intuition to visualise the problem, assisted by the Ed posts.
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+
+Testing strategy: Designed test cases based on advice on Ed for Dijkstra's algorithm (e.g. cyclic case).
+    (how did you perform testing and design test cases to achieve coverage?)
+
+Known problems: None
+    (are there any things that do not work?)
+
+Comments on the assignment: Extremeley stimulating and interesting.
